@@ -1,1 +1,1 @@
-# infotri
+# infotrix
